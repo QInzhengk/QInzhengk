@@ -9,6 +9,8 @@
 >
 > :sparkling_heart: 华为杯中国研究生数学建模竞赛一等奖。
 
+<!-- ![image](https://github.com/QInzhengk/QInzhengk/blob/7ed1ecebba0862b6b07d35011cac2488bd6d50c8/images/hr.gif) --> 
+
 <!-- 仓库状态统计 --> 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&show_icons=true&theme=transparent" /> </div>
 
