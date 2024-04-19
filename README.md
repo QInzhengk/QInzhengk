@@ -3,7 +3,7 @@
 <!-- 主页访问量统计 --> 
 <div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
 
-> :revolving_hearts: 高考数学 144
+> :revolving_hearts: 高考数学 144分
 >
 > :cupid: 全国大学生数学竞赛一等奖（预赛）
 >
