@@ -12,12 +12,12 @@
 <!-- ![image](https://github.com/QInzhengk/QInzhengk/blob/7ed1ecebba0862b6b07d35011cac2488bd6d50c8/images/hr.gif) --> 
 
 <!-- 仓库状态统计 --> 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&show_icons=true&theme=transparent" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&show_icons=true&theme=buefy" /> </div>
 
 ## :whale: [博客：幸运藏在努力里](https://github.com/qzkq/qzkq.github.io)
 
 <!-- 常用语言占比统计 --> 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&layout=compact&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&layout=compact&theme=buefy" /> </div>
 
 <div align="center">
   <a href="https://qzkq.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
