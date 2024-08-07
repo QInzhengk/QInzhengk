@@ -3,11 +3,13 @@
 <!-- 主页访问量统计 --> 
 <div align="right"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
 
-> :revolving_hearts: 高考数学 144 分
+> :earth_asia: 在职 算法工程师
 >
-> :cupid: 全国大学生数学竞赛一等奖（预赛）
+> :strawberry: 高考数学 144 分
 >
-> :sparkling_heart: 华为杯中国研究生数学建模竞赛一等奖。
+> :watermelon: 全国大学生数学竞赛一等奖（预赛）
+>
+> :cherries: 华为杯中国研究生数学建模竞赛一等奖。
 
 <!-- ![image](https://github.com/QInzhengk/QInzhengk/blob/7ed1ecebba0862b6b07d35011cac2488bd6d50c8/images/hr.gif) --> 
 
