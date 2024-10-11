@@ -3,7 +3,7 @@
 <!-- 主页访问量统计 --> 
 <div align="right"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
 
-> :earth_asia: 在职 算法工程师
+> :earth_asia: 算法工程师
 >
 > :strawberry: 高考数学 144 分
 >
