@@ -5,7 +5,7 @@
 
 > :earth_asia: 算法工程师
 >
-> :strawberry: 高考数学 144 分
+> :candy: 高考数学 144 分
 >
 > :watermelon: 全国大学生数学竞赛一等奖（预赛）
 >
