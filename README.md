@@ -1,8 +1,5 @@
 ## :strawberry:    [简介](https://qzkq.github.io/about/)
 
-<!-- 主页访问量统计 --> 
-<div align="right"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
-
 > :earth_asia: 算法工程师
 >
 > :candy: 高考数学 144 分
